@@ -1,3 +1,5 @@
+//video link: https://youtu.be/_na7OIqF9OY?si=ZwRTK_n6sXM3RCLy
+
 //console.log(0.1 + 0.2 === 0.3);
 //console.log(0.1 + 0.2);
 
